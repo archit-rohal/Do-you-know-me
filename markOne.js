@@ -43,3 +43,4 @@ var highScore = {
 else {
   console.log("Alright, Have a good day!");
 }
+
